@@ -1,0 +1,247 @@
+[
+    {
+        "title": "Ancient Mathematics",
+        "date": "3000 BC",
+        "description": "Early use of mathematics by the Babylonians and Egyptians."
+    },
+    {
+        "title": "Pythagoras",
+        "date": "570-495 BC",
+        "description": "Pythagoras and his contributions to mathematics including the Pythagorean theorem."
+    },
+    {
+        "title": "Euclid's Elements",
+        "date": "300 BC",
+        "description": "Euclid writes 'Elements', a comprehensive compilation of the mathematical knowledge of his time."
+    },
+    {
+        "title": "Archimedes",
+        "date": "287-212 BC",
+        "description": "Archimedes' contributions to geometry, calculus, and the understanding of pi."
+    },
+    {
+        "title": "Algebra",
+        "date": "9th Century",
+        "description": "Development of algebra by Persian mathematician Al-Khwarizmi."
+    },
+    {
+        "title": "Calculus",
+        "date": "17th Century",
+        "description": "Development of calculus independently by Isaac Newton and Gottfried Wilhelm Leibniz."
+    },
+    {
+        "title": "Modern Mathematics",
+        "date": "19th-21st Century",
+        "description": "Advancements in various fields of mathematics including abstract algebra, number theory, and computational mathematics."
+    },
+    {
+        "title": "Fibonacci Sequence",
+        "date": "13th Century",
+        "description": "Introduction of the Fibonacci sequence by Leonardo of Pisa."
+    },
+    {
+        "title": "Pascal's Triangle",
+        "date": "17th Century",
+        "description": "Blaise Pascal's work on the combinatorial mathematics found in Pascal's Triangle."
+    },
+    {
+        "title": "Probability Theory",
+        "date": "17th Century",
+        "description": "Development of probability theory by Pierre-Simon Laplace and others."
+    },
+    {
+        "title": "Number Theory",
+        "date": "Ancient Times",
+        "description": "Study of integers and their properties, including prime numbers, divisibility, and more."
+    },
+    {
+        "title": "Set Theory",
+        "date": "19th Century",
+        "description": "Foundational work in set theory by Georg Cantor, leading to the development of modern mathematical logic."
+    },
+    {
+        "title": "Topology",
+        "date": "19th Century",
+        "description": "Development of topology, the study of geometric properties and spatial relations unaffected by the continuous change of shape or size of figures."
+    },
+    {
+        "title": "Game Theory",
+        "date": "20th Century",
+        "description": "Introduction of game theory, the study of mathematical models of strategic interaction among rational decision-makers."
+    },
+    {
+        "title": "Chaos Theory",
+        "date": "20th Century",
+        "description": "Emergence of chaos theory, the study of nonlinear and dynamic systems that are highly sensitive to initial conditions."
+    },
+    {
+        "title": "Computational Mathematics",
+        "date": "20th Century",
+        "description": "Advancement of computational mathematics, including numerical analysis, algorithms, and computational complexity theory."
+    },
+    {
+        "title": "Cryptology",
+        "date": "20th Century",
+        "description": "Development of cryptology, the science of secure communication and encryption."
+    },
+    {
+        "title": "Fractal Geometry",
+        "date": "20th Century",
+        "description": "Introduction of fractal geometry, the study of complex and self-similar geometric shapes."
+    },
+    {
+        "title": "Mathematical Physics",
+        "date": "19th Century",
+        "description": "Interdisciplinary field that applies mathematical methods to problems in physics."
+    },
+    {
+        "title": "Mathematical Biology",
+        "date": "20th Century",
+        "description": "Application of mathematical techniques to model biological systems."
+    },
+    {
+        "title": "Information Theory",
+        "date": "20th Century",
+        "description": "Development of information theory, the study of quantification, storage, and communication of information."
+    },
+    {
+        "title": "Mathematical Logic",
+        "date": "19th-20th Century",
+        "description": "Development of mathematical logic, including formal logic and its applications in computer science and philosophy."
+    },
+    {
+        "title": "Mathematical Economics",
+        "date": "20th Century",
+        "description": "Application of mathematical methods to economics, including optimization, game theory, and econometrics."
+    },
+    {
+        "title": "Operations Research",
+        "date": "20th Century",
+        "description": "Application of advanced analytical methods to help make better decisions."
+    },
+    {
+        "title": "Mathematical Sociology",
+        "date": "20th Century",
+        "description": "Application of mathematical models and methods to analyze social phenomena."
+    },
+    {
+        "title": "Complex Analysis",
+        "date": "19th Century",
+        "description": "Study of complex numbers and their functions."
+    },
+    {
+        "title": "Numerical Analysis",
+        "date": "20th Century",
+        "description": "Study of algorithms for approximating solutions to mathematical problems."
+    },
+    {
+        "title": "Mathematical Philosophy",
+        "date": "Ancient Times",
+        "description": "Use of mathematical methods in philosophical reasoning and analysis."
+    },
+    {
+        "title": "Mathematical Education",
+        "date": "20th Century",
+        "description": "Development of effective methods and approaches to teaching mathematics."
+    },
+    {
+        "title": "Mathematical Art",
+        "date": "Ancient Times",
+        "description": "Integration of mathematical concepts and techniques into artistic creation."
+    },
+    {
+        "title": "Computational Geometry",
+        "date": "20th Century",
+        "description": "Study of algorithms and mathematical structures for solving geometric problems."
+    },
+    {
+        "title": "Mathematical Linguistics",
+        "date": "20th Century",
+        "description": "Application of mathematical methods to the study of language."
+    },
+    {
+        "title": "Mathematical Music Theory",
+        "date": "20th Century",
+        "description": "Study of the mathematical structures underlying music."
+    },
+    {
+        "title": "Mathematical Chemistry",
+        "date": "20th Century",
+        "description": "Application of mathematical methods to chemical phenomena."
+    },
+    {
+        "title": "Mathematical Geography",
+        "date": "20th Century",
+        "description": "Application of mathematics to geographical studies."
+    },
+    {
+        "title": "Mathematical Engineering",
+        "date": "20th Century",
+        "description": "Application of mathematical principles and methods to engineering problems."
+    },
+    {
+        "title": "Mathematical Medicine",
+        "date": "20th Century",
+        "description": "Application of mathematical models to medical sciences."
+    },
+    {
+        "title": "Mathematical Finance",
+        "date": "20th Century",
+        "description": "Application of mathematical models and methods to finance and economics."
+    },
+    {
+        "title": "Mathematical Psychology",
+        "date": "20th Century",
+        "description": "Application of mathematical models to psychology."
+    },
+    {
+        "title": "Mathematical Sociology",
+        "date": "20th Century",
+        "description": "Application of mathematical models and methods to analyze social phenomena."
+    },
+    {
+        "title": "Mathematical Engineering",
+        "date": "20th Century",
+        "description": "Application of mathematical principles and methods to engineering problems."
+    },
+    {
+        "title": "Mathematical Medicine",
+        "date": "20th Century",
+        "description": "Application of mathematical models to medical sciences."
+    },
+    {
+        "title": "Mathematical Finance",
+        "date": "20th Century",
+        "description": "Application of mathematical models and methods to finance and economics."
+    },
+    {
+        "title": "Mathematical Psychology",
+        "date": "20th Century",
+        "description": "Application of mathematical models to psychology."
+    },
+    {
+        "title": "Mathematical Meteorology",
+        "date": "20th Century",
+        "description": "Application of mathematics to weather prediction and climate modeling."
+    },
+    {
+        "title": "Mathematical Cosmology",
+        "date": "20th Century",
+        "description": "Application of mathematics to the study of the universe and its origins."
+    },
+    {
+        "title": "Mathematical Evolutionary Biology",
+        "date": "20th Century",
+        "description": "Application of mathematical models to evolutionary processes."
+    },
+    {
+        "title": "Mathematical Neuroscience",
+        "date": "20th Century",
+        "description": "Application of mathematical models to understand brain functions and neural networks."
+    },
+    {
+        "title": "Mathematical Linguistics",
+        "date": "20th Century",
+        "description": "Application of mathematical methods to the study of language."
+    }
+]
